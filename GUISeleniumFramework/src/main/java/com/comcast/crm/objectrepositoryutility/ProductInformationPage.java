@@ -20,6 +20,11 @@ public class ProductInformationPage {
 
 	public WebElement getProductinformationpage() {
 		return productinformationpage;
+		
+		
+		
+		
+		
 	}
 
 }
